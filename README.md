@@ -3,10 +3,14 @@
 This repository contains my **Python-based molecular graph processing tool**, designed to model atomic structures as graphs and analyze chemical compounds. Built as a personal project, it features a **2048-bit fingerprinting algorithm** using **SHA-256 hashing** for substructure detection and functional group classification.
 
 
-## Project Structur
+## Project Structure
+
 molecule.py - main function, where graph stuctures and their functions are defined
+
 molTesting.py - unit testing with PyTest
+
 sdf.zip - data file
+
 personalTesting folder - even more testing, less structured. Includes images of vizualized graph molecules, bonds, and atoms. 
 
 ## Overview
