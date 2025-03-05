@@ -1,5 +1,5 @@
 """
-Provided functions.
+necessary functions.
 """
 
 from typing import Optional
